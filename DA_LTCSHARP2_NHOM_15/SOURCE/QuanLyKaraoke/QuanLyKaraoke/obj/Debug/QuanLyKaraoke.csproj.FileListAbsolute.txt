@@ -1,0 +1,10 @@
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.CodeAnalysisLog.xml
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.lastcodeanalysissucceeded
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+F:\Winform_QLQuanKaraoke\QuanLyQuanKaraoke\DA_LTCSHARP2_NHOM_15\SOURCE\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
